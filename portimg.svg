@@ -1,0 +1,15 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Fundo preto (80%) -->
+  <rect width="300" height="200" fill="#000000" />
+  
+  <!-- Elementos abstratos em verde (15%) representando "óculos" -->
+  <!-- Lente esquerda -->
+  <rect x="55" y="70" width="30" height="20" rx="5" ry="5" fill="#00AA00" />
+  <!-- Lente direita -->
+  <rect x="115" y="70" width="30" height="20" rx="5" ry="5" fill="#00AA00" />
+  <!-- Ponte dos óculos -->
+  <rect x="85" y="75" width="30" height="5" fill="#00AA00" />
+  
+  <!-- Detalhes em branco (5%) com símbolo de código -->
+
+</svg>
